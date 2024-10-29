@@ -39,5 +39,5 @@ Filippo Badioli
 * Alessandro Oliva
 * Ianna Pasichnyk
 * Luca Ricci
-Luca Sbrocca
-Melissa Karol Tamborrino
+* Luca Sbrocca
+* Melissa Karol Tamborrino
