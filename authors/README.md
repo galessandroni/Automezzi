@@ -11,8 +11,8 @@ Giacomo Alessandroni <alessandroni.giacomo@liceomarconipesaro.it>
 Maria Federica Gabucci, Giacomo Alessandroni
 
 ## Credits
-Filippo Badioli
-
+* Filippo Badioli
+---
 * Andrea Bellazecca
 * Arianna Bernardini
 * Gioele Bertulli
