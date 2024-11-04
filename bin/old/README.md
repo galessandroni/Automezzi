@@ -1,1 +1,1 @@
-# Repository delle versioni precedenti
+# Repository of previous versions
