@@ -8,4 +8,5 @@ _Laws, regulations, forms and circulars regarding the utilisation of service veh
 
 | Data | Tipologia | Oggetto |
 | - | - | - |
-| 04/02/2021 | Circolare | Impiego dei veicoli di servizio ed uso del mod. 106. Foglio di uscita automezzi/natanti |
+| 04/02/2021 | Circolare | [Impiego dei veicoli di servizio ed uso del mod. 106. Foglio di uscita automezzi/natanti](Impiego-dei-veicoli-di-servizio-ed-uso-del-mod.-106-.-foglio-di-uscita-automezzi-natanti.pdf) |
+
