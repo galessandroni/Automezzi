@@ -1,3 +1,3 @@
-# File eseguibili
+# Executable files
 
-In questa cartella sono contenuti tutti e soli i file complilati ed eseguibili.
+This folder contains all and only the compiled and executable files.
