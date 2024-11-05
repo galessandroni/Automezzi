@@ -1,4 +1,4 @@
 # Documentations
 
-* [Regulations and circulars](Laws)
+* [Regulations and newsletters](Laws)
 * [Application Handbook](Handbook)
