@@ -1,5 +1,5 @@
 # Repository source code
 
-| Folder | Object |
+| Folder | Subject |
 |---|---|
-| QRcode | TeX generator for license plates |
+| [qrcode](qrcode) | TeX generator for license plates |
