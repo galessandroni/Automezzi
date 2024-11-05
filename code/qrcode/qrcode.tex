@@ -1,0 +1,44 @@
+\documentclass[border={10pt}]{standalone}
+\usepackage[svgnames]{xcolor}
+\usepackage{qrcode}
+\usepackage{svg}
+\usepackage{tikz}
+
+% Draw a QR code and insert an image in its center without disrupting the contents
+% Text
+\def\QRtext{A1234}
+% Logo
+\def\QRimage{logo.svg}
+
+\begin{document}
+
+% Fraction of QR code width to replace
+% Maximal value depends on the level of robustness of QR code
+% 0.3 is usually OK for M (sometimes can go up to 0.4 for H)
+\def\wFrac{.3}   
+
+% Dimension registers to use later
+\newdimen\qrWidth
+\newdimen\imWidth
+
+% The actual desired size of the QR code in the page (should not affect the result)
+\setlength{\qrWidth}{\textwidth}%
+
+% Remark: The qrcode package requires some chars to be escaped (like space)
+\newcommand{\myQR}{
+    % Put a frame around the QR code
+    % Define the color of QR code (the frame is black)
+    % Define the text to embed and the level of robustness with option "level"
+    \fbox{\textcolor{Black}{\qrcode[hyperlink,height=\qrWidth,level=M]{\QRtext}}}
+ }
+
+\begin{tikzpicture}
+\node [anchor=south west,inner sep=0] at (0,0) (QR) {\myQR};
+\pgfmathsetlength{\imWidth}{\wFrac*\qrWidth}
+% Put the image in the center of QR code
+\begin{scope}[x={(QR.south east)},y={(QR.north west)}]
+    \node [inner sep=0,anchor=south west] at (0.5-\wFrac/2,0.5-\wFrac/2) {\includesvg[width=\imWidth,height=\imWidth]{\QRimage}};
+\end{scope}
+\end{tikzpicture}
+
+\end{document}
