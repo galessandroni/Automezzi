@@ -4,3 +4,4 @@
 |---|---|
 | [email](email)   | Send email using external app    |
 | [qrcode](qrcode) | TeX generator for license plates |
+| [qrcode reader](qrcode-reader) | Read a QRcode to avoid memorize the licence plate of the car |
