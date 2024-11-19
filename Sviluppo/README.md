@@ -1,7 +1,7 @@
 Cartella con i file delle diverse parti del programma
 
 # COMPONENTI DEL TEAM
-Riccardo Dafne - Email Sender
+Riccardo Dafne - Email Sender \n
 Giovanni Gasparre - Data Entry
 Alberto Binda - Login
 Nicole Mucerscaia - Menù a tendina
