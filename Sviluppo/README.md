@@ -10,3 +10,4 @@ Cartella con i file delle diverse parti del programma
 
 # SORGENTI
 https://community.appinventor.mit.edu/t/opening-another-screen-and-closing-the-current-one/70922
+https://www.youtube.com/watch?v=qeZpgFzmcDI
