@@ -1,14 +1,15 @@
-Cartella con i file delle diverse parti del programma
+# Folder with application component files
 
-# COMPONENTI DEL TEAM
-* Riccardo Dafne - Email Sender
-* Giovanni Gasparre - Data Entry
-* Alberto Binda - Login
-* Nicole Mucerscaia - Menù a tendina
-* Andrea Bellazecca - Presentazione, licenza e crediti
-* Filippo Linzalone - Aiuto per il team
+## Team
 
-# SORGENTI
-https://community.appinventor.mit.edu/t/opening-another-screen-and-closing-the-current-one/70922
+* Riccardo Dafne - *Email Sender*
+* Giovanni Gasparre - *Data Entry*
+* Alberto Binda - *Login*
+* Nicole Mucerscaia - *Menu*
+* Andrea Bellazecca - *Splash, licence, credits*
+* Filippo Linzalone - *Team supporter*
 
-https://www.youtube.com/watch?v=qeZpgFzmcDI
+## Others credits
+
+* [Opening another screen AND closing the current one](https://community.appinventor.mit.edu/t/opening-another-screen-and-closing-the-current-one/70922)
+* [Wrong sound effect](https://www.youtube.com/watch?v=qeZpgFzmcDI)
