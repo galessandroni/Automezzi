@@ -11,30 +11,35 @@ Giacomo Alessandroni <alessandroni.giacomo@liceomarconipesaro.it>
 Maria Federica Gabucci, Giacomo Alessandroni
 
 ## Credits
+
+### Tutoring
 * Filippo Badioli
----
-* Andrea Bellazecca
+
+### Developers
+* Riccardo Dafne - *Email Sender*
+* Giovanni Gasparre - *Data Entry*
+* Alberto Binda - *Login*
+* Nicole Mucerscaia - *Menu*
+* Andrea Bellazecca - *Splash, licence, credits*
+* Filippo Linzalone - *Team supporter*
+
+### Others
 * Arianna Bernardini
 * Gioele Bertulli
-* Alberto Binda
 * Mattia Bonazzoli
 * Sofia Cardone
 * Alessandro Catenacci
 * Arianna Clini
-* Riccardo Dafne
 * Gianfilippo De Palma
 * Aleksandra Ivaylova Dimova
 * Benedetta Donini
 * Sara Gabrielli
-* Giovanni Gasparre
 * Alexandra Grossi
 * Farah Guizani
 * Alessandro Gurini
-* Filippo Linzalone
 * Ylenia Marchetti
 * Giovanni Mazza
 * Noel Michelazzo
-* Nicole Mucerscaia
 * Filippo Nuzzello
 * Alessandro Oliva
 * Ianna Pasichnyk
