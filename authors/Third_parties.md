@@ -4,7 +4,7 @@
 
 | Sound | Used as | Author | Licence | Utilizzabile? |
 | ----- | ------- | ------ | ------- | ------- |
-| [Error message.wav](https://commons.wikimedia.org/wiki/File:Error_message.wav) | Error message | Versatile Virtuoso | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | - |
+| [Error message.wav](https://commons.wikimedia.org/wiki/File:Error_message.wav) | Error message | Versatile Virtuoso | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | si |
 
 ## Icons
 
