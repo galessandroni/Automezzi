@@ -21,4 +21,4 @@
 
 | Code | Used for | Author | Licence | Utilizzabile? |
 | ---- | -------- | ------ | ------- | ------- |
-| [Building Apps with Many Screens](https://ai2.appinventor.mit.edu/reference/other/manyscreens.html) | Open and close a screen | [MIT](https://web.mit.edu/) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | - |
+| [Building Apps with Many Screens](https://ai2.appinventor.mit.edu/reference/other/manyscreens.html) | Open and close a screen | [MIT](https://web.mit.edu/) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | si |
