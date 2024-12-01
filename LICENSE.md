@@ -1,9 +1,9 @@
 # GNU GENERAL PUBLIC LICENSE
 
 <img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png">
-_Version 3, 29 June 2007_
+Version 3, 29 June 2007
 
-_Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>_
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
