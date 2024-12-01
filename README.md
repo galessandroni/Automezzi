@@ -1,7 +1,7 @@
 # Application for vehicle management
 
 
-Application intended for internal use of the State Police for _vehicle management_, according to Mod. 106.
+Application intended for internal use of the State Police for _vehicle management_, according to 106 form.
 
 The aim of this application (running on **Android 5.0 Lollipop+** operating system) is to replace paper and provide districts with detailed reports on the activity carried out.
 
