@@ -1,6 +1,6 @@
 # GNU GENERAL PUBLIC LICENSE
 
-<img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png">
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
