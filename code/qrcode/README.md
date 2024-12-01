@@ -1,5 +1,7 @@
 # Manual
 
+<img align="right" width="200" height="200" alt="A vehicle with the number plate 'AB 123 CD'" src="../images/plate_AB123CD.jpg">
+
 This LaTeX code generate the QR codes of the licence plates of the cars.
 
 Before compiling you have to sobstitute 
