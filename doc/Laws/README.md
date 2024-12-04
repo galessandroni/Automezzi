@@ -6,7 +6,7 @@ In elenco vengono riportare leggi, normative, modulistiche e circolari relative 
 
 _Laws, regulations, forms and circulars regarding the utilisation of service vehicles and their use as per Form 106 are listed._
 
-| Data | Tipologia | Oggetto |
+| Date | Type | Subject |
 | - | - | - |
-| 04/02/2021 | Circolare | [Impiego dei veicoli di servizio ed uso del mod. 106. Foglio di uscita automezzi/natanti](Impiego-dei-veicoli-di-servizio-ed-uso-del-mod.-106-.-foglio-di-uscita-automezzi-natanti.pdf) |
-|            | Modulistica | [Mod. 106](mod_106.pdf) |
+| 2021 Feb 4th | Circular | [Impiego dei veicoli di servizio ed uso del mod. 106. Foglio di uscita automezzi/natanti](Impiego-dei-veicoli-di-servizio-ed-uso-del-mod.-106-.-foglio-di-uscita-automezzi-natanti.pdf) |
+|            | Form | [Mod. 106](mod_106.pdf) |
