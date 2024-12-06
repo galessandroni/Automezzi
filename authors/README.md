@@ -23,6 +23,9 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Andrea Bellazecca - *Splash, licence, credits*
 * Filippo Linzalone - *Team supporter*
 
+### Documentation
+* Alessandro Gurini
+
 ### Others
 * Arianna Bernardini
 * Gioele Bertulli
@@ -36,7 +39,6 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Sara Gabrielli
 * Alexandra Grossi
 * Farah Guizani
-* Alessandro Gurini
 * Ylenia Marchetti
 * Giovanni Mazza
 * Noel Michelazzo
