@@ -176,12 +176,12 @@ Images are similar to links but with an exclamation mark `!` before the link.
 ### Syntax
 
 ```markdown
-![Alt Text](http://example.com/image.jpg)
+![Sample Image](https://mdg.imgix.net/assets/images/tux.png)
 ```
 
 ### Example:
 
-![Sample Image](https://via.placeholder.com/150)
+![Sample Image](https://mdg.imgix.net/assets/images/tux.png)
 
 ---
 
@@ -308,8 +308,6 @@ In some cases, you may need to use HTML within Markdown. You can mix HTML tags w
 ```markdown
 <p>This is a paragraph using HTML tags.</p>
 ```
-
----
 
 ---
 
