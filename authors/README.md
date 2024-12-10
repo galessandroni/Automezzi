@@ -25,13 +25,15 @@ Maria Federica Gabucci, Giacomo Alessandroni
 
 ### Documentation
 * Alessandro Gurini
+* Alexandra Grossi
+* Benedetta Donini
+* Arianna Bernardini
 
 ### Graphic
 
 ### Terms and conditions
 
 ### Others
-* Arianna Bernardini
 * Gioele Bertulli
 * Mattia Bonazzoli
 * Sofia Cardone
@@ -39,9 +41,7 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Arianna Clini
 * Gianfilippo De Palma
 * Aleksandra Ivaylova Dimova
-* Benedetta Donini
 * Sara Gabrielli
-* Alexandra Grossi
 * Farah Guizani
 * Ylenia Marchetti
 * Giovanni Mazza
