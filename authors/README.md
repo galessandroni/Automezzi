@@ -42,20 +42,13 @@ Maria Federica Gabucci, Giacomo Alessandroni
 
 ### Others
 * Gioele Bertulli
-* Mattia Bonazzoli
 * Sofia Cardone
-* Alessandro Catenacci
-* Arianna Clini
 * Gianfilippo De Palma
-* Aleksandra Ivaylova Dimova
-* Sara Gabrielli
 * Farah Guizani
-* Ylenia Marchetti
 * Giovanni Mazza
 * Noel Michelazzo
 * Filippo Nuzzello
 * Alessandro Oliva
 * Ianna Pasichnyk
 * Luca Ricci
-* Luca Sbrocca
 * Melissa Karol Tamborrino
