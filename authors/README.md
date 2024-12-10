@@ -30,6 +30,13 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Arianna Bernardini
 
 ### Graphic
+* Mattia Bonazzoli
+* Alessandro Catenacci
+* Arianna Clini
+* Aleksandra Dimova
+* Sara Gabrielli
+* Ylenia Marchetti
+* Luca Sbrocca
 
 ### Terms and conditions
 
