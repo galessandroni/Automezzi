@@ -26,6 +26,10 @@ Maria Federica Gabucci, Giacomo Alessandroni
 ### Documentation
 * Alessandro Gurini
 
+### Graphic
+
+### Terms and conditions
+
 ### Others
 * Arianna Bernardini
 * Gioele Bertulli
