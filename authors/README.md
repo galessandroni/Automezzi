@@ -39,16 +39,15 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Luca Sbrocca
 
 ### Terms and conditions
-
-### Others
 * Gioele Bertulli
 * Sofia Cardone
 * Gianfilippo De Palma
 * Farah Guizani
 * Giovanni Mazza
-* Noel Michelazzo
 * Filippo Nuzzello
-* Alessandro Oliva
 * Ianna Pasichnyk
 * Luca Ricci
 * Melissa Karol Tamborrino
+### Others
+* Noel Michelazzo
+* Alessandro Oliva
