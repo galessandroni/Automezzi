@@ -7,7 +7,11 @@
 [app logo](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/app%20logo.md)
 
 [user interface](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/user%20interface.md) 
-### ° login/logout 
-### ° app operation 
-### ° filling out form(mandatory)
-### ° various uses and purposes 
+
+[login/logout](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/login,logout.md)
+
+[app operation](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/app%20operation.md) 
+
+[filling out form(mandatory)](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/filling%20out%20form(mandatory).md)
+
+[various uses and purposes](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/various%20uses%20and%20purposes.md) 
