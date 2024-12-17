@@ -5,7 +5,7 @@
 | Sound | Used as | Author(s) | Licence |
 | ----- | ------- | --------- | ------- |
 | [wrongsound.mp3](https://freesound.org/s/730120/) | Error message | Universfield | [Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) | si |
-| [suonocorretto.wav](https://freesound.org/s/243701/) | Correct message |ertfelda | [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) | si |
+| [suonocorretto.wav](https://freesound.org/s/243701/) | Correct message |ertfelda | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) | si |
 
 ## Icon
 
