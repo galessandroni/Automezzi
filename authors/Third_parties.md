@@ -4,9 +4,10 @@
 
 | Sound | Used as | Author(s) | Licence |
 | ----- | ------- | --------- | ------- |
-| [Error message.wav](https://commons.wikimedia.org/wiki/File:Error_message.wav) | Error message | Versatile Virtuoso | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | si |
+| [wrongsound.mp3](https://freesound.org/s/730120/) | Error message | Universfield | [Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) | si |
+| [suonocorretto.wav](https://freesound.org/s/243701/) | Correct message |ertfelda | [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/) | si |
 
-## Icons
+## Icon
 
 | Icons | Used as | Author(s) | Licence |
 | ----- | ------- | --------- | ------- |
