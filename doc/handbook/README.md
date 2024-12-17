@@ -3,7 +3,7 @@
 ## APPLICAZIONE IN SUPPORTO ALLA POLIZIA 
 
 * Tutorial/presentazione dell'applicazione 
-* presentazione del logo dell'app 
+* logo dell'app 
 * interfaccia utente 
 * [login](Login.md)
 * funzionamento app. 
