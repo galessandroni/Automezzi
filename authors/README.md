@@ -24,11 +24,10 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Filippo Linzalone - *Team supporter*
 
 ### Documentation
-* Alessandro Gurini.
+* Alessandro Gurini
 * Alexandra Grossi
 * Benedetta Donini
   
-
 ### Graphic
 * Mattia Bonazzoli
 * Alessandro Catenacci
@@ -48,6 +47,3 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Ianna Pasichnyk
 * Luca Ricci
 * Melissa Karol Tamborrino
-### Others
-* Noel Michelazzo
-* Alessandro Oliva
