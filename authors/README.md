@@ -27,6 +27,7 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Alessandro Gurini
 * Alexandra Grossi
 * Benedetta Donini
+*  Arianna Bernardini
   
 ### Graphic
 * Mattia Bonazzoli
