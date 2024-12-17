@@ -3,4 +3,5 @@
 
 ### ° tutorial
 ### ° login/logout 
+### ° app logo
 ### ° 
