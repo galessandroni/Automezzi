@@ -25,6 +25,7 @@ Maria Federica Gabucci, Giacomo Alessandroni
 
 ### Documentation
 * Alessandro Gurini
+* Alberto Binda
 * Alexandra Grossi
 * Benedetta Donini
 *  Arianna Bernardini
