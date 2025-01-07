@@ -2,13 +2,13 @@
 
 ## Terms and conditions
 
-This software does not collect any of your data. Do not use any cookies, tracker or similar for working. For this is the reason you don't need to sign any strange pacts with the devil or other obscured figure.
+This software does not collect any of your data. Do not use any cookies, trackers or similar for working. For this is the reason you don't need to sign any strange pacts with the devil or other obscured figure.
 
-This application helps you to compile correctly the 106 form (that you have to send at your district). In this way the work is not only more environmentally friendly, second environmentally sustainable, and second facilitates the 
+This application helps you to compile correctly the 106 form (that you have to send at your district). In this way the work is more environmentally friendly and sustainable, second reduces the probability of mistakes.
 
 ## Licence
 
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>This software is free software: you can redistribute it and/or modify it under the terms of the **GNU General Public License** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>This software is free software: you can redistribute it and/or modify it under the terms of the **[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 ## Credits
 
