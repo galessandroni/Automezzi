@@ -30,3 +30,4 @@
 | Code | Used as | Author(s) | Licence |
 | ----- | ------- | -------- | ------- |
 | [Building Apps with Many Screens](https://ai2.appinventor.mit.edu/reference/other/manyscreens.html) | Open and close a screen | [MIT](https://web.mit.edu/) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [AI2 Project Merger Tool](https://github.com/mit-cml/appinventor-sources/raw/refs/heads/master/appinventor/aimerger/AI2MergerApp.jar) | Merging two (and more) applicazions | [ MIT App Inventor Project](https://github.com/mit-cml) | [Apache v. 2.0](https://www.apache.org/licenses/LICENSE-2.0) |
