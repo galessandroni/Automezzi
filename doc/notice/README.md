@@ -8,7 +8,7 @@ This application helps you to compile correctly the 106 form (that you have to s
 
 ## Licence
 
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>This software is free software: you can redistribute it and/or modify it under the terms of the **[GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img align="right" width="127" height="51" alt="GNU General Public License v. 3" src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>This software is free software: you can redistribute it and/or modify it under the terms of the **[GNU General Public License](../../LICENSE.md)** as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 ## Credits
 
