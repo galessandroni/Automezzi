@@ -1,1 +1,0 @@
-# funzionamento app
