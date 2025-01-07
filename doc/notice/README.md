@@ -16,7 +16,7 @@ Ideas, vision, project coordination and authors (developers, graphics, legal tea
 
 In the third year we ask our pupils to develop their own project. In Italy, this activity is called Pathways for Transversal Skills and Orientation.
 
-The only reason in the field _[author](../../authors/README.md)_ is present only the teacher name is to protect the pupils, because this application will be used in thorny cases, as people under protection or transfer of detained. In this way, the pupils are listed in the _credit_ field, which has subsections according to the pupils' role.
+The only reason in the field _[authors](../../authors/README.md)_ is present only the teacher name is to protect the pupils, because this application will be used in thorny cases, as people under protection or transfer of detained. In this way, the pupils are listed in the _credit_ field, which has subsections according to the pupils' role.
 
 ## Third parties
 
