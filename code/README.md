@@ -7,3 +7,4 @@
 | [login](login)   | Login page |
 | [qrcode](qrcode) | TeX generator for license plates |
 | [qrcode reader](qrcode-reader) | Read a QRcode to avoid memorize the licence plate of the car |
+| [SendData](SendData) | Send some data (maybe) |
