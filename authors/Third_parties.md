@@ -19,6 +19,13 @@
 | [![GregorDS, CC BY-SA 4.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CrystalClearActionApply.svg/100px-CrystalClearActionApply.svg.png)](https://commons.wikimedia.org/wiki/File:CrystalClearActionApply.svg) | Icon | [GregorDS](https://commons.wikimedia.org/wiki/User:GregorDS) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 | [![PerfektesChaos, MIT, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/OOjs_UI_icon_logOut-ltr-progressive.svg/100px-OOjs_UI_icon_logOut-ltr-progressive.svg.png)](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_logOut-ltr-progressive.svg) | Icon | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [MIT](https://github.com/aws/mit-0) |  
 | [![Isarra, PD, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/100px-Blue_question_mark_icon.svg.png)](https://commons.wikimedia.org/wiki/File:Blue_question_mark_icon.svg) | Info | [Isarra](https://commons.wikimedia.org/wiki/User:Isarra) | [PD](https://creativecommons.org/public-domain/) |
+| [!(file:///C:/Users/sbrocca.luca/Downloads/success.svg)] | Icon | [Vivek G](https://iconduck.com/designers/vivek-g) |  Creative Commons Zero v1.0 Universal
+| [!(file:///C:/Users/sbrocca.luca/Downloads/failure.svg9)] | Icon | [Vivek G](https://iconduck.com/designers/vivek-g) |  Creative Commons Zero v1.0 Universal
+| [!(file:///C:/Users/sbrocca.luca/Downloads/play-circle.svg9] | Icon | [Font Awesome](https://iconduck.com/designers/font-awesome) | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [!(file:///C:/Users/sbrocca.luca/Downloads/angle-double-right.svg)] | Icon | [Font Awesome](https://iconduck.com/designers/font-awesome) | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [!(file:///C:/Users/sbrocca.luca/Downloads/question-circle.svg)] | Icon | [Font Awesome](https://iconduck.com/designers/font-awesome) | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [!(file:///C:/Users/sbrocca.luca/Downloads/plus-circle.svg)] | Icon | [Font Awesome](https://iconduck.com/designers/font-awesome) | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [!(file:///C:/Users/sbrocca.luca/Downloads/alternate-sign-out.svg)] | Icon | [Font Awesome](https://iconduck.com/designers/font-awesome) | [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ## Images
 | Image | Used as | Author(s) | Licence |
