@@ -3,8 +3,7 @@
 * [tutorial/presentation of the application](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/tutorial%20of%20the%20application.md#tutorial7
 )
 
-* [app logo](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/app%20logo.md)
-
+* [app logo](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/app%20logo.md#logo9)
 * [user interface](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/user%20interface.md) 
 
 * [login/logout](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/login,logout.md)
