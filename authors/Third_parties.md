@@ -19,13 +19,13 @@
 | [![GregorDS, CC BY-SA 4.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/CrystalClearActionApply.svg/100px-CrystalClearActionApply.svg.png)](https://commons.wikimedia.org/wiki/File:CrystalClearActionApply.svg) | Confirm | [GregorDS](https://commons.wikimedia.org/wiki/User:GregorDS) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 | [![PerfektesChaos, MIT, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/OOjs_UI_icon_logOut-ltr-progressive.svg/100px-OOjs_UI_icon_logOut-ltr-progressive.svg.png)](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_logOut-ltr-progressive.svg) | Sign out | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [MIT](https://github.com/aws/mit-0) |  
 | [![Isarra, PD, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/100px-Blue_question_mark_icon.svg.png)](https://commons.wikimedia.org/wiki/File:Blue_question_mark_icon.svg) | Info | [Isarra](https://commons.wikimedia.org/wiki/User:Isarra) | [PD](https://creativecommons.org/public-domain/) |
-| [!(file:///C:/Users/sbrocca.luca/Downloads/success.svg)] | Confirm | [Vivek G](https://iconduck.com/designers/vivek-g) | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) |
-| [!(file:///C:/Users/sbrocca.luca/Downloads/failure.svg9)] | Delete | [Vivek G](https://iconduck.com/designers/vivek-g) | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) |
-| [!(file:///C:/Users/sbrocca.luca/Downloads/play-circle.svg9] | Play | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-| [!(file:///C:/Users/sbrocca.luca/Downloads/angle-double-right.svg)] | Continue | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-| [!(file:///C:/Users/sbrocca.luca/Downloads/question-circle.svg)] | Info | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-| [!(file:///C:/Users/sbrocca.luca/Downloads/plus-circle.svg)] | Add | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-| [!(file:///C:/Users/sbrocca.luca/Downloads/alternate-sign-out.svg)] | Sign out | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
+| [![Confirm icon](https://iconduck.com/icons/236950/success)] | Confirm | [Vivek G](https://iconduck.com/designers/vivek-g) | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| [![Delete icon](https://iconduck.com/icons/236947/failure)] | Delete | [Vivek G](https://iconduck.com/designers/vivek-g) | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| [![Play icon](https://iconduck.com/icons/21564/play-circle) | Play | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
+| [![Continue icon](https://iconduck.com/icons/21609/angle-double-right)] | Continue | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
+| [![Question Icon](https://iconduck.com/icons/22280/question-circle)]| Info | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
+| [![Add icon](https://iconduck.com/icons/22256/plus-circle)] | Add | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
+| [![Sign out icon](https://iconduck.com/icons/22351/alternate-sign-out)] | Sign out | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 
 ## Images
 | Image | Used as | Author(s) | Licence |
