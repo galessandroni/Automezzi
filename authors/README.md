@@ -40,12 +40,12 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Luca Sbrocca
 
 ### Terms and conditions
-* Gioele Bertulli - *Icones*
-* Sofia Cardone
-* Gianfilippo De Palma
-* Farah Guizani
-* Giovanni Mazza - *Icones*
-* Filippo Nuzzello
-* Ianna Pasichnyk
-* Luca Ricci - *Icones*
-* Melissa Karol Tamborrino - *
+* Gioele Bertulli - *Icons*
+* Sofia Cardone - *Images*
+* Gianfilippo De Palma - *Codes*
+* Farah Guizani - *Codes*
+* Giovanni Mazza - *Icons*
+* Filippo Nuzzello - *Sounds*
+* Ianna Pasichnyk - *Images*
+* Luca Ricci - *Icons*
+* Melissa Karol Tamborrino - *Sounds*
