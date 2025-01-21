@@ -5,7 +5,7 @@
 * [app logo](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/app%20logo.md#logo)
 * [user interface](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/user%20interface.md#user-interface) 
 
-* [login/logout]()
+* [login](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/login.md#login)
 
 * [app operation]() 
 
