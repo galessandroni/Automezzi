@@ -11,4 +11,4 @@
 
 * [filling out form(mandatory)]()
 
-* [various uses and purposes]() 
+* [various uses and purposes](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/various%20uses%20and%20purposes.md#various-uses-and-purposes) 
