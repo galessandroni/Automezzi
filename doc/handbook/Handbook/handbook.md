@@ -1,15 +1,14 @@
 # HANDBOOK
 ## this is an application for the police
-* [tutorial/presentation of the application](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/tutorial%20of%20the%20application.md#tutorial7
-)
+* [tutorial/presentation of the application]()
 
-* [app logo](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/app%20logo.md#logo)
-* [user interface](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/user%20interface.md) 
+* [app logo]()
+* [user interface]() 
 
-* [login/logout](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/login,logout.md)
+* [login/logout]()
 
-* [app operation](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/app%20operation.md) 
+* [app operation]() 
 
-* [filling out form(mandatory)](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/filling%20out%20form(mandatory).md)
+* [filling out form(mandatory)]()
 
-* [various uses and purposes](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/various%20uses%20and%20purposes.md) 
+* [various uses and purposes]() 
