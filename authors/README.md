@@ -24,14 +24,12 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Filippo Linzalone - *Team supporter*
 
 ### Documentation
-* Alessandro Gurini
+* Alessandro Gurini - *Senior documentor*
 * Alberto Binda
 * Alexandra Grossi
 * Benedetta Donini
-*  Arianna Bernardini
   
 ### Graphic
-* Mattia Bonazzoli
 * Alessandro Catenacci
 * Arianna Clini
 * Aleksandra Dimova
