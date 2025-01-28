@@ -26,7 +26,7 @@
 | [![Question Icon](https://iconduck.com/icons/22280/question-circle)]| Info | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 | [![Add icon](https://iconduck.com/icons/22256/plus-circle)] | Add | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
 | [![Sign out icon](https://iconduck.com/icons/22351/alternate-sign-out)] | Sign out | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-
+| [![Menù icon](https://iconduck.com/icons/69976/menu)] | Menù icon | [Mono](https://iconduck.com/designers/mono) | [MIT](https://github.com/aws/mit-0) |
 ## Images
 | Image | Used as | Author(s) | Licence |
 | ----- | ------- | --------- | ------- |
