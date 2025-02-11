@@ -20,17 +20,19 @@
 | [![PerfektesChaos, MIT, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/OOjs_UI_icon_logOut-ltr-progressive.svg/100px-OOjs_UI_icon_logOut-ltr-progressive.svg.png)](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_logOut-ltr-progressive.svg) | Sign out | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [MIT](https://github.com/aws/mit-0) |  
 | [![Isarra, PD, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/100px-Blue_question_mark_icon.svg.png)](https://commons.wikimedia.org/wiki/File:Blue_question_mark_icon.svg) | Info | [Isarra](https://commons.wikimedia.org/wiki/User:Isarra) | [PD](https://creativecommons.org/public-domain/) |
 
-| [![Delete icon](https://iconduck.com/icons/236947/failure)] | Delete | [Vivek G](https://iconduck.com/designers/vivek-g) | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) |
-| [![Play icon](https://iconduck.com/icons/21564/play-circle) | Play | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| [![Continue icon](https://iconduck.com/icons/21609/angle-double-right)] | Continue | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| [![Question Icon](https://iconduck.com/icons/22280/question-circle)]| Info | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
-| [![Add icon](https://iconduck.com/icons/22256/plus-circle)] | Add | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-| [![Sign out icon](https://iconduck.com/icons/22351/alternate-sign-out)] | Sign out | [Font Awesome](https://iconduck.com/designers/font-awesome) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 
-| [![Menù icon](https://iconduck.com/icons/69976/menu)] | Menù icon | [Mono](https://iconduck.com/designers/mono) | [MIT](https://github.com/aws/mit-0) |
+
 
 | Icons | Used as | Author(s) | Licence |
 | ----- | ------- | --------- | ------- |
+| [![PerfektesChaos, Expat License, via Wikimedia Commons]()](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_add.svg) | Add | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [Expat License](https://commons.wikimedia.org/wiki/Category:Expat/MIT_License) |
+| [![RhapsoDJ, Expat License, via Wikimedia Commons]()](https://commons.wikimedia.org/wiki/File:Icons8_flat_delete.svg) | Delete | [RhapsoDJ](https://commons.wikimedia.org/wiki/User:RhapsoDJ) | [Expat License](https://commons.wikimedia.org/wiki/Category:Expat/MIT_License) |
 | [![ScratchSoft Japan, CC BY-SA4.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Build_list_bullet_leaked.svg/100px-Build_list_bullet_leaked.svg.png)](https://commons.wikimedia.org/wiki/File:Build_list_bullet_leaked.svg) | Confirm | [ScratchSoft Japan](https://commons.wikimedia.org/wiki/User_talk:ScratchSoft_Japan) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [![PerfektesChaos, CC BY-SA 4.0, via Wikimedia Commons]()](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_logOut-ltr.svg) | Sign out | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| [![Perhelion, Expat License, via Wikimedia Commons]()](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_helpNotice-ltr.svg) | Info | [Perhelion](https://commons.wikimedia.org/wiki/User:Perhelion) | [Expat License](https://commons.wikimedia.org/wiki/Category:Expat/MIT_License) |
+| [![Maaziz-adports, Apache License 2.0, via Wikimedia Commons]()](https://commons.wikimedia.org/wiki/File:Arrow-right-double-fill.svg) | Continue | [Maaziz-adports](https://commons.wikimedia.org/w/index.php?title=User:Maaziz-adports&action=edit&redlink=1) | [Apache License 2.0](https://en.wikipedia.org/wiki/Apache_License) |
+| [![Floydian.pulse, CC0 1.0, via Wikimedia Commons](upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hamburger-.svg/100px-Hamburger-.svg.png)](https://commons.wikimedia.org/wiki/File:Hamburger-.svg) | Menù | [Floydian.pulse](https://commons.wikimedia.org/w/index.php?title=User:Floydian.pulse&action=edit&redlink=1) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
+| [![PerfektesChaos, CC BY-SA 3.0, via Wikimedia Commons]()](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_play-ltr.svg) | Play | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en) |
+
 ## Images
 | Image | Used as | Author(s) | Licence |
 | ----- | ------- | --------- | ------- |
