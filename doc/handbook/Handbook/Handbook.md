@@ -1,14 +1,16 @@
 # Handbook
-## this is an application for the police
-* [tutorial/presentation of the application](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/tutorial%20of%20the%20application.md#tutorial-of-the-application)
 
-* [app logo](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/app%20logo.md#logo)
-* [user interface](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/user%20interface.md#user-interface) 
 
-* [login](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/login.md#login)
 
-* [app operation](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/app%20operation.md#app-operation) 
+* [Tutorial/presentation of the application](https://github.com/galessandroni/Automezzi/blob/d99e1f7b9fe538e8f3b9c75096229149c1e1354b/doc/handbook/Handbook/Tutorial%20of%20the%20application.md)
 
-* [filling out form(mandatory)](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/filling%20out%20form(mandatory).md#filling-out-formmandatory)
+* [App logo](https://github.com/galessandroni/Automezzi/blob/b4b64ecd54786c8e49bfa456c024840b1ba8208e/doc/handbook/Handbook/App%20logo.md)
+* [User interface](https://github.com/galessandroni/Automezzi/blob/d99e1f7b9fe538e8f3b9c75096229149c1e1354b/doc/handbook/Handbook/User%20interface.md) 
 
-* [various uses and purposes](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/Handbook/various%20uses%20and%20purposes.md#various-uses-and-purposes) 
+* [Login](https://github.com/galessandroni/Automezzi/blob/d99e1f7b9fe538e8f3b9c75096229149c1e1354b/doc/handbook/Handbook/Login.md)
+
+* [App operation](https://github.com/galessandroni/Automezzi/blob/74bc181eb505d3958847e46b3beaf272e0481717/doc/handbook/Handbook/App%20operation.md) 
+
+* [Filling out form(mandatory)](https://github.com/galessandroni/Automezzi/blob/74bc181eb505d3958847e46b3beaf272e0481717/doc/handbook/Handbook/Filling%20out%20form(mandatory).md)
+
+* [Various uses and purposes](https://github.com/galessandroni/Automezzi/blob/74bc181eb505d3958847e46b3beaf272e0481717/doc/handbook/Handbook/Various%20uses%20and%20purposes.md) 
