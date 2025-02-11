@@ -1,5 +1,10 @@
 # Manuale
-# Questa è un'applicazione per la polizia
+
+* Descrizione generale
+* Installazione (requisiti minimi, Android 5.1)
+* Login
+* ecc. in ordine di utilizzo (cercando di fare più ordine possibbile in chi legge)
+
 * [tutorial/presentazione dell'applicazione](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/manuale/tutorial%20presentazione.md)
 * [logo dell'applicazione](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/manuale/logo%20app.md) 
 * [interfaccia utente](https://github.com/galessandroni/Automezzi/blob/main/doc/handbook/manuale/interfaccia%20utente.md)
