@@ -30,12 +30,12 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Benedetta Donini
   
 ### Graphic
-* Alessandro Catenacci *Management, Search icons*
+* Alessandro Catenacci - *Management, Search icons*
 * Arianna Clini
-* Aleksandra Dimova *App logo creation*
-* Sara Gabrielli *App logo creation*
-* Ylenia Marchetti *Layout*
-* Luca Sbrocca *Management, Search icons*
+* Aleksandra Dimova - *App logo creation*
+* Sara Gabrielli - *App logo creation*
+* Ylenia Marchetti - *Layout*
+* Luca Sbrocca - *Management, Search icons*
 
 ### Terms and conditions
 * Gioele Bertulli - *Icons*
