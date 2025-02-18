@@ -1,10 +1,9 @@
 # Manuale
 
-* Descrizione generale
+* [Descrizione generale](https://github.com/galessandroni/Automezzi/blob/781dd5ed4a24c8bdfd85943cf3e65edb2b89dc53/doc/handbook/manuale/Descrizione%20app.md)
 * Installazione (requisiti minimi, Android 5.1)
 * Login
 * ecc. in ordine di utilizzo (cercando di fare più ordine possibbile in chi legge)
-
 * [Tutorial/presentazione dell'applicazione](https://github.com/galessandroni/Automezzi/blob/de2a3fb3a7b8f7ce39db66c8461c1f19c2caa3c3/doc/handbook/manuale/Tutorial%20presentazione.md)
 * [Logo dell'applicazione](https://github.com/galessandroni/Automezzi/blob/8de8f4ac619c51392b23389b503a0fde80f3b9fa/doc/handbook/manuale/Logo%20app.md) 
 * [Interfaccia utente](https://github.com/galessandroni/Automezzi/blob/b735f74b99325f9e9314650ecf8f093d250a2572/doc/handbook/manuale/Interfaccia%20utente.md)
