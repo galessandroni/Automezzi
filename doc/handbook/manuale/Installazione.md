@@ -1,2 +1,2 @@
 # REQUISITI MINIMI
-Sistema operativo: Android 5.0 e successivi
+Sistema operativo richiesto: Android 5.0 o successivi
