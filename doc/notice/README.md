@@ -12,7 +12,7 @@ This application helps you to compile correctly the 106 form (that you have to s
 
 ## Credits
 
-Ideas, vision, project coordination and authors (developers, graphics, legal team, documentation) are the pupils of 3H (school year 2024/2025) of Scientific Lyceum "Guglielmo Marconi", Pesaro, Italy.
+Ideas, vision, project coordination and authors (developers, graphics, legal team, documentation) are the pupils of 3H (school year 2024/2025) of Secondary School "Guglielmo Marconi", Pesaro, Italy.
 
 In the third year we ask our pupils to develop their own project. In Italy, this activity is called Pathways for Transversal Skills and Orientation.
 
