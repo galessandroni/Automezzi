@@ -13,9 +13,6 @@
 | ----- | ------- | --------- | ------- |
 | <a href="../code/qrcode/logo.svg"><img align="right" width="100" height="100" alt="GNU General Public License v. 3" src="../code/qrcode/logo.svg"></a> | Icon | Sara Gabrielli | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 | [![Tabler, MIT, via Tabler Icons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tabler-icons_qrcode.svg/100px-Tabler-icons_qrcode.svg.png)](https://tabler.io/icons/icon/qrcode) | QRcode scanner |  [Paweł Kuna et al.](https://github.com/tabler/tabler-icons) | [MIT](https://github.com/aws/mit-0) |
-
-| Icons | Used as | Author(s) | Licence |
-| ----- | ------- | --------- | ------- |
 | [![PerfektesChaos, Expat License, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/OOjs_UI_icon_add.svg/100px-OOjs_UI_icon_add.svg.png)](https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_add.svg) | Add | [PerfektesChaos](https://commons.wikimedia.org/wiki/User:PerfektesChaos) | [Expat License](https://commons.wikimedia.org/wiki/Category:Expat/MIT_License) |
 | [![RhapsoDJ, Expat License, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Icons8_flat_delete.svg/100px-Icons8_flat_delete.svg.png)](https://commons.wikimedia.org/wiki/File:Icons8_flat_delete.svg) | Delete | [RhapsoDJ](https://commons.wikimedia.org/wiki/User:RhapsoDJ) | [Expat License](https://commons.wikimedia.org/wiki/Category:Expat/MIT_License) |
 | [![ScratchSoft Japan, CC BY-SA4.0, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Build_list_bullet_leaked.svg/100px-Build_list_bullet_leaked.svg.png)](https://commons.wikimedia.org/wiki/File:Build_list_bullet_leaked.svg) | Confirm | [ScratchSoft Japan](https://commons.wikimedia.org/wiki/User_talk:ScratchSoft_Japan) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
