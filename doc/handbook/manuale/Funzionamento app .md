@@ -1,1 +1,0 @@
-# Funzionamento app
