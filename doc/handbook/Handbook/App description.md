@@ -1,3 +1,15 @@
 # App description
-The Automezzi app makes police work easier at a bureaucratic level. When using a car you must return various data (such as Km traveled, fuel used, reason for the service etc...) on a paper document that will be, once completed, delivered to police station. Our app is used to speed up and digitize 
-this process. In fact, you can easily fill out the form from your mobile device and you can also conveniently send it by e-mail to the police station to which you belong.
+The **Vehicles** app facilitates police work at a bureaucratic level.
+
+When using a motor vehicle, various data must be returned
+(such as Km travelled, fuel used, reason for service etc...) on a
+paper document which will be, once completed,
+police station.
+
+Our app is used to speed up and digitize such
+process.
+
+
+In fact, you can fill out the form from your
+mobile device and you can just as conveniently
+Send it by e-mail to the police station to which you belong.
