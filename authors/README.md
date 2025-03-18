@@ -31,7 +31,7 @@ Maria Federica Gabucci, Giacomo Alessandroni
   
 ### Graphic
 * Alessandro Catenacci - *Management, Search icons*
-* Arianna Clini
+* Arianna Clini - *Videomaker*
 * Aleksandra Dimova - *App logo creation*
 * Sara Gabrielli - *App logo creation*
 * Ylenia Marchetti - *Layout*
