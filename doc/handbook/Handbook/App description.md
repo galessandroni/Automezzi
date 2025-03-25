@@ -13,3 +13,9 @@ process.
 In fact, you can fill out the form from your
 mobile device and you can just as conveniently
 Send it by e-mail to the police station to which you belong.
+
+The application was conceived as a PCTO project and was developed by the students of the 3H class for the 2024/25 school year at the Liceo Marconi, applied sciences option.
+
+
+
+
