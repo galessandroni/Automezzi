@@ -1,15 +1,15 @@
 # Tutorial
 L'utente a fine servizio dovra compilare il modulo dove verranno richeste le seguenti informazioni:
-- numero di matricola del conducente;
-- numero di matricola dell'utente che ordina il servizio; 
-- veicolo con il quale l'utante esce dall'autorimessa ( scegliere tra: autovettura, autocarro, motoveicolo, volante);
-- numero di targa;
-- motivo del servizio;
-- orario di uscita;
-- conteggio km iniziali;
-- orario di rientro;
-- conteggio km finali; 
-- consumo carburanti (indicare litri e tipo di carburante);
-- consumo lubrificanti ( indicare chilogrammi e tipo di lubrificante);
-- indicare eventuali guasti ed incidenti e/o comunicazioni del conducente;
-- numero di matricola del funzionario e del caposervizio.
+- Numero di matricola del conducente;
+- Numero di matricola dell'utente che ordina il servizio; 
+- Veicolo con il quale l'utente esce dall'autorimessa ( scegliere tra: autovettura, autocarro, motoveicolo, volante);
+- Numero di targa, che può essere scannerizzata con un QR code;
+- Motivo del servizio, ossia il motivo per il quale è richiesto l'intervento delle forze dell'ordine;
+- Orario di uscita, ovvero l'orario in cui il veicolo e i passeggeri sono usciti dall'autorimessa;
+- Conteggio km iniziali:chilometri che il veicolo aveva prima della partenza;
+- Orario di rientro, ovvero l'orario in cui il veicolo e i passeggeri rientrano nell'autorimessa ;
+- Conteggio km finali,ovvero i chilometri che il veicolo ha al rientro dal servizio; 
+- Consumo carburanti (indicare litri e tipo di carburante);
+- Consumo lubrificanti ( indicare chilogrammi e tipo di lubrificante);
+- Indicare eventuali guasti ed incidenti e/o comunicazioni del conducente;
+- Iumero di matricola del funzionario e del caposervizio.
