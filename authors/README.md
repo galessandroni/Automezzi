@@ -27,7 +27,7 @@ Maria Federica Gabucci, Giacomo Alessandroni
 * Alessandro Gurini - *Senior documentor*
 * Alberto Binda - *Documentation admin and writer*
 * Alexandra Grossi
-* Benedetta Donini
+* Benedetta Donini - *documentation writer*
   
 ### Graphic
 * Alessandro Catenacci - *Management, Search icons*
