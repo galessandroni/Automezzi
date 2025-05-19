@@ -2,6 +2,9 @@
 L'utente, per ogni uscita, dovrà compilare il modulo 106 (in formato elettronico) nel quale verranno richeste tutte le informazioni di rito, le quali verranno inviate al distretto col programma predefinito di posta elettronica.
 
 ## Installazione
+L'applicazione, così come è stata sviluppata, funziona con sistemi operativi Android e richiede una versione 5.0 o superiore (parliamo di dispositivi rilasciati a partire dal 12 novembre 2014).
+
+L'installazione avviene scaricando fisicamente il file compilato (estensione .apk) e seguendo le istruzioni del proprio dispositivo mobile.
 
 - Numero di matricola del conducente;
 - Numero di matricola dell'utente che ordina il servizio; 
