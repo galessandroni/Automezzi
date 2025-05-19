@@ -1,5 +1,8 @@
-# Tutorial
-L'utente a fine servizio dovra compilare il modulo dove verranno richeste le seguenti informazioni:
+# Istruzioni
+L'utente, per ogni uscita, dovrà compilare il modulo 106 (in formato elettronico) nel quale verranno richeste tutte le informazioni di rito, le quali verranno inviate al distretto col programma predefinito di posta elettronica.
+
+## Installazione
+
 - Numero di matricola del conducente;
 - Numero di matricola dell'utente che ordina il servizio; 
 - Veicolo con il quale l'utente esce dall'autorimessa ( scegliere tra: autovettura, autocarro, motoveicolo, volante);
