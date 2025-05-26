@@ -15,13 +15,15 @@ L'applicazione ha come scopo principale semplificare il lavoro a chi deve compil
 
 
 per inviare i dati bisognerà necessariamente sapere:
-- Numero di matricola del **conducente**,Numero di matricola di chi **ordina il servizio**,Il numero di matricola del funzionario e del caposervizio.
+- Numero di matricola del **conducente**;
+- Numero di matricola di chi **ordina il servizio**;
+- Il numero di matricola del funzionario e del caposervizio.
   
 Di seguito, tutti e soli i dati che vengono richiesti dal modulo 106. Alcuni sono apzionali, altri (come di consueto) obbligatori, i dati sono numerati seguendo l'immagine riportata sotto l'elenco.
 I dati sono da inserire come nell'immagine sono: 
 
   
--  1 Numero di **targa** (può essere acquisito scansionando un codice QR);
+- 1 Numero di **targa** (può essere acquisito scansionando un codice QR);
 - 2 **Motivo del servizio**, richiesto l'intervento delle forze dell'ordine;
 - 3 **Veicolo** con il quale si esce dal distretto (scegliere tra: *autovettura*, *autocarro*, *motoveicolo*, *volante*);
 - 4 **Conteggio km iniziali**: chilometri che il veicolo aveva prima della partenza;
