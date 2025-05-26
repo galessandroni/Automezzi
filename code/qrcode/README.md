@@ -22,3 +22,18 @@ This LaTeX code generate the QR codes of the licence plates of the cars. You can
 So, Before compiling you have to substitute in row 9 (as shown following) the text which produces the QR-code with the licence plate of each vehicle.
 
 This is useful to avoid remembering the licence plate of each vehicle (and, in this way, it is more difficult to make mistakes, e.g. by the spellchecker of the mobile phone).
+
+> [!TIP]
+> You can change the logo in the middle, e.g.
+>
+> **From:**
+> 
+> ```TeX
+> \def\QRimage{logo.svg}        % Image
+> ```
+>
+> **To:**
+>
+> ```TeX
+> \def\QRimage{logo_no_scritta.svg}        % Image
+> ```
