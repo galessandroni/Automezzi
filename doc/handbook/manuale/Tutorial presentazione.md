@@ -24,14 +24,14 @@ I dati sono da inserire come nell'immagine sono:
 -  1 Numero di **targa** (può essere acquisito scansionando un codice QR);
 - 2 **Motivo del servizio**, richiesto l'intervento delle forze dell'ordine;
 - 3 **Veicolo** con il quale si esce dal distretto (scegliere tra: *autovettura*, *autocarro*, *motoveicolo*, *volante*);
-- 4 Conteggio km iniziali: chilometri che il veicolo aveva prima della partenza;
-- 5 Conteggio km finali,ovvero i chilometri che il veicolo ha al rientro dal servizio; 
+- 4 **Conteggio km iniziali**: chilometri che il veicolo aveva prima della partenza;
+- 5 **Conteggio km finali**,ovvero i chilometri che il veicolo ha al rientro dal servizio; 
 - 6 **Orario di uscita**;
-- 7 Orario di rientro, ovvero l'orario in cui il veicolo e i passeggeri rientrano nell'autorimessa ;
-- 8 Consumo carburanti (indicare litri e tipo di carburante);
-- 9 Consumo lubrificanti ( indicare chilogrammi e tipo di lubrificante);
-- 10 Indicare l'itinerario
-- 11 Indicare eventuali guasti ed incidenti e/o comunicazioni del conducente;
+- 7 **Orario di rientro**, ovvero l'orario in cui il veicolo e i passeggeri rientrano nell'autorimessa ;
+- 8 **Consumo carburanti** (indicare litri e tipo di carburante);
+- 9 **Consumo lubrificanti** ( indicare chilogrammi e tipo di lubrificante);
+- 10 **Indicare l'itinerario**;
+- 11 Indicare **eventuali guasti ed incidenti** e/o **comunicazioni del conducente**;
 
 ![image](https://github.com/user-attachments/assets/bade7329-aa27-4959-9a1a-e2090b4f10c5)
 
